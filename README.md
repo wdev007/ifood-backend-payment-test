@@ -81,7 +81,7 @@ need to remove the online payment methods from the listing.
 needs to be able to tell what the transaction path is for a future checkout
 step.
 
-### Even More Hints
+## More Instructions (Hints)
 
 * It's a backend solution only, no need to write a frontend, or any html page.
 * Your _micro_ distributed system doesn't need to have any authentication or
