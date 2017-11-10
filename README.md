@@ -38,7 +38,6 @@ should not return online payment options
 ### Additional information
 
 1. Gateway
-
 External services responsible for processing the credit card transaction itself.
 It's a service between the e-commerce and the Acquirers. Usually a gateway
 doesn't process all payment brands. E.g., Cielo does not process Hipercard and
@@ -48,6 +47,9 @@ Rede does not process ELO cards.
 These are some full-featured gateways that are
 all-in-one: anti-fraud, gateway and acquirer, used to charge e-commerces with
 higher transactions fees.
+
+3. Acquirer
+These are the companies that interact directly with issuers (banks) and payment brands (e.g. VISA).
 
 ### Costs
 
