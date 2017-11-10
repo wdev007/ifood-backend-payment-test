@@ -67,5 +67,5 @@ implement solutions for these problems (non-functional requirements)
 
 ## DON'T
 * make any authentication/authorization mechanism. Focus on the business rules above only.
-* write any fronted code. It's a backend micro service only. No screens, no pages,
-only request and responses.
+* write any front-end code. It's a backend micro service only. No screens, no HTML pages,
+only request and responses. :)
