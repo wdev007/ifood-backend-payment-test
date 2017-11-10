@@ -33,7 +33,7 @@ should not return online payment options
 
 ### Processing a transaction: examples
 
--- image here
+![Payment Flows simplified](https://github.com/ifood/ifood-backend-payment-test/blob/master/onlinePaymentTransactionFlowsV3Simplified.png)
 
 ### Additional information
 
