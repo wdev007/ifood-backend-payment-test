@@ -27,7 +27,7 @@ Consider the following:
 - The payment configuration depends on the restaurant and the end user
 - Available payment methods can be offline (cash, check, POS machine) or online (credit card or digital wallet)
 - If the user requesting for the payment methods is a fraudster, the service
-should not return online payment options
+should return only offline payment options
 - Your data model should be flexible enough to permit cost ($) optimizations (should be easy to update)
 - Gateways often have outages, but processing payments should continue working in these situations
 
